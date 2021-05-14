@@ -5,7 +5,7 @@ $weather= "";
     $totalRecovered= "";
     $totalDeaths= "";
     $totalCountries= "";   
-    $urlContents = file_get_contents("https://disease.sh/v3/covid-19/all");    
+    $urlContents = file_get_contents("https:/disease.sh/v3/covid-19/all");    
         $weatherArray = json_decode($urlContents, true);     
 if($weatherArray){       
 $totalCases = $weatherArray['cases'];
