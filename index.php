@@ -29,7 +29,7 @@
      echo $weather;
     ?>
   </div>
-    <button class="margin" onclick="myFunction()">Click to know more.</button>
+    <button class="margin" id="upload" onclick="myFunction()">Click to know more.</button>
 </div> 
         <script src="main.js"></script>
     </body>
