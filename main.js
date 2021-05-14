@@ -1,3 +1,3 @@
-function myFunction() {
-  document.getElementById("demo").innerHTML="Sorry currently Unavailable.";
+function myFunction(){
+  location.replace("https://covid19.who.int/")
 }
