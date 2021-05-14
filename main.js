@@ -1,3 +1,3 @@
 function myFunction(){
-  location.replace("https://covid19.who.int/")
+  location.href("https://covid19.who.int/")
 }
