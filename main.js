@@ -1,3 +1,3 @@
 function myFunction(){
-  location.href("https://covid19.who.int/")
+  location.href("https://www.worldometers.info/coronavirus/")
 }
