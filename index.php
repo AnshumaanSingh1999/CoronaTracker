@@ -30,6 +30,7 @@
     ?>
   </div>
     <button class="margin" id="upload" onclick="myFunction()">Click to know more.</button>
+    <p class="margin" id="demo"></p>
 </div> 
         <script src="main.js"></script>
     </body>
